@@ -1,0 +1,1 @@
+Este repositório contém o código do desafio da Oracle em conjunto com a Alura para um app web que sorteia nomes em uma lista de amigos secretos
